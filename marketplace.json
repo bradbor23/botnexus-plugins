@@ -1,0 +1,17 @@
+{
+  "name": "bradbor-plugins",
+  "owner": { "name": "bradbor23", "url": "https://github.com/bradbor23" },
+  "description": "Plugins maintained by bradbor23.",
+  "plugins": [
+    {
+      "name": "botnexus-agent-authoring",
+      "source": "https://github.com/bradbor23/botnexus-agent-authoring.git",
+      "version": "v1.2.0"
+    },
+    {
+      "name": "botnexus-agent-builder",
+      "source": "https://github.com/bradbor23/botnexus-agent-builder.git",
+      "version": "v1.2.1"
+    }
+  ]
+}
