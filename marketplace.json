@@ -6,7 +6,7 @@
     {
       "name": "botnexus-agent-authoring",
       "source": "https://github.com/bradbor23/botnexus-agent-authoring.git",
-      "version": "v1.2.0"
+      "version": "v1.2.1"
     },
     {
       "name": "botnexus-agent-builder",
