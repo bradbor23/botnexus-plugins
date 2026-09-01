@@ -11,7 +11,7 @@
     {
       "name": "botnexus-agent-builder",
       "source": "https://github.com/bradbor23/botnexus-agent-builder.git",
-      "version": "v1.2.1"
+      "version": "v1.3.0"
     }
   ]
 }
